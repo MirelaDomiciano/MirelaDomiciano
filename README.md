@@ -74,7 +74,7 @@
 
 ---
 
-### 🌐 **Connect with Me**
+### 🌐 **Connect**
 
 <p>
   <a href="www.linkedin.com/in/mirela-domiciano-bb0533266">
