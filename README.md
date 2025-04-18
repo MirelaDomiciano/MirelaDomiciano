@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mirela Domiciano 👋</h1>
+<h1>Hi, I'm Mirela Domiciano </h1>
 
 <p>
   I'm a <strong>Computer Engineering</strong> student at Federal University of Itajubá (UNIFEI) 📚.
